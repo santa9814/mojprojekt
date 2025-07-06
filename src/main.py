@@ -1,3 +1,4 @@
+# === HEADER B ===
 print('Witaj świecie')
 def menu():
     print('--- MENU ---')
