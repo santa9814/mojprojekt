@@ -1,5 +1,8 @@
-Mój Projekt
-Lorem ipsum 
-02.18
-06.07.2025
-Mateusz Santarius 
+# Moj Projekt
+
+## Opis
+To jest przykładowy projekt napisany w języku Python.
+
+## Instalacja
+```bash
+pip install -r requirements.txt

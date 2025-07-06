@@ -10,3 +10,10 @@ def uruchom_menu():
 
 if __name__ == '__main__':
     uruchom_menu()
+
+import kalkulator
+
+if wybor == "4":
+    a = float(input("Podaj pierwszą liczbę: "))
+    b = float(input("Podaj drugą liczbę: "))
+    print("Wynik dodawania:", kalkulator.dodaj(a, b))
