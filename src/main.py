@@ -3,7 +3,7 @@
 print('Witaj świecie')
 def menu():
     print('--- MENU ---')
-    print('1. Strona główna')
+    print('1. Start')
     print('2. O nas')
     print('3. Kontakt')
 
