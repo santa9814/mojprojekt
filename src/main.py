@@ -6,6 +6,7 @@ def menu():
     print('1. Start')
     print('2. O nas')
     print('3. Kontakt')
+    print('4. Kalkulator')
 
 if __name__ == '__main__':
     menu()
